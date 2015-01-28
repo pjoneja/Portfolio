@@ -1,0 +1,50 @@
+<!--Link to Google Spreadsheet as JSON feed-->
+<script src="https://spreadsheets.google.com/feeds/list/0Ag48tSRbJ9WgdG5qdEZjZGZaSEo3T0p6cVM4d1pzbHc/od6/public/values?alt=json-in-script&amp;callback=displayContent" type="text/javascript"></script>
+
+<script type='text/javascript'>        
+        function displayContent(json) {
+            //parse JSON and store the percent vote for each team as the following six variables (as two digit numbers out of 100):
+            var Girls_ISB=parseFloat(json.feed.entry[1].gsx$girlsISB.$t);
+            var Girls_ISKL=parseFloat(json.feed.entry[1].gsx$girlsISKL.$t);
+            var Girls_ISM=parseFloat(json.feed.entry[1].gsx$girlsISM.$t);
+            var Girls_JIS=parseFloat(json.feed.entry[1].gsx$girlsJIS.$t);
+            var Girls_SAS=parseFloat(json.feed.entry[1].gsx$girlsSAS.$t);
+            var Girls_TAS=parseFloat(json.feed.entry[1].gsx$girlsTAS.$t);
+            
+            //Google Spreadsheet cell function automatically selects the team in the lead and calls it "leading"
+            var leading_choice=parseFloat(json.feed.entry[1].gsx$leading.$t);
+            
+            //multiplier helps keep the length of each bar within close proximity to each other. this means the longest bar is not miles longer than the shortest one.
+            var multiplier = 1.1
+            
+            if (leading_choice > 60) {
+                multiplier = 0.6
+            }
+            
+            //use javascript to alter the width of the bar to create a bar chart
+            document.getElementById('Girls-ISB-Bar').style.width = Girls_ISB * multiplier + '%';
+            document.getElementById('Girls-ISKL-Bar').style.width = Girls_ISKL * multiplier + '%';
+            document.getElementById('Girls-ISM-Bar').style.width = Girls_ISM * multiplier + '%';
+            document.getElementById('Girls-JIS-Bar').style.width = Girls_JIS * multiplier + '%';
+            document.getElementById('Girls-SAS-Bar').style.width = Girls_SAS * multiplier + '%';
+            document.getElementById('Girls-TAS-Bar').style.width = Girls_TAS * multiplier + '%';
+            
+            //use javascript to write the percent next to the bar
+            document.getElementById('Girls-ISB-vote').innerHTML = Girls_ISB;
+            document.getElementById('Girls-ISKL-vote').innerHTML = Girls_ISKL;
+            document.getElementById('Girls-ISM-vote').innerHTML = Girls_ISM;
+            document.getElementById('Girls-JIS-vote').innerHTML = Girls_JIS;
+            document.getElementById('Girls-SAS-vote').innerHTML = Girls_SAS;
+            document.getElementById('Girls-TAS-vote').innerHTML = Girls_TAS;
+            
+            }
+    </script>  
+  </head>
+  <body style="background-color: #f5f5f5; text-align:right">
+      <h4>Girls</h4>
+      <p>18&#37; <button id="Girls-ISB-Bar" type="button" class="btn btn-default" style="height: 24px; margin-bottom:5px; margin-right:10px; width: 18%"></button><strong> ISB </strong><img src="img/school_ISB_60px.png" width="32"></p>
+      <p>9&#37; <button id="Girls-ISKL-Bar" type="button" class="btn btn-warning" style="height: 24px; margin-bottom:5px; margin-right:3px; width: 9%"></button><strong> ISKL </strong><img src="img/school_ISKL_60px.png" width="32"></p>
+      <p>31&#37; <button id="Girls-ISM-Bar" type="button" class="btn btn-success" style="height: 24px; margin-bottom:5px; margin-right:7px; width: 31%"></button><strong> ISM </strong><img src="img/school_ISM_60px.png" width="32"></p>
+      <p>34&#37; <button id="Girls-JIS-Bar" type="button" class="btn btn-primary" style="height: 24px; margin-bottom:5px; margin-right:12px; width: 34%"></button><strong> JIS </strong><img src="img/school_JIS_60px.png" width="32"></p>
+      <p>4&#37; <button id="Girls-SAS-Bar" type="button" class="btn btn-danger" style="height: 24px; margin-bottom:5px; margin-right:5px; width: 4%"></button><strong> SAS </strong><img src="img/school_SAS_60px.png" width="32"></p>
+      <p>4&#37; <button id="Girls-TAS-Bar" type="button" class="btn btn-info" style="height: 24px; margin-bottom:5px; margin-right:5px; width: 4%"></button><strong> TAS </strong><img src="img/school_TAS_60px.png" width="32"></p>
