@@ -1,5 +1,5 @@
 # Showcase
-Examples of code written by me, with comments explaining the motivation
+Examples of code written by me, with comments explaining the motivation. Check the description files in each folder for a deeper explanation.
 
 ### Poll-ster
 A hacked-together implementation of an online audience poll using Google Spreadsheets, JSON, JavaScript and HTML Tables. 
