@@ -1,0 +1,67 @@
+<!--Link to Google Spreadsheet as JSON feed-->
+<script src="https://spreadsheets.google.com/feeds/list/0Ag48tSRbJ9WgdDI5RlRiVm1aM25STEpNV25KLVU2bUE/od6/public/values?alt=json-in-script&amp;callback=displayContent" type="text/javascript"></script>  
+
+<script type='text/javascript'>
+        function displayContent(json) {
+            //Declare empty strings to hold data
+            var Boys_Table='';
+            var Girls_Table='';
+            //figure out how many rows our spreadsheet has
+            var len = json.feed.entry.length     
+            //loop through the spreadsheet row-by-row, gathering data
+            for (var i=0; i<len; i++) {
+                //Parse the raw json to find the headers of each column
+                //Grab the contents of the cell at 'i'th row under the named column
+                //Table header in the Google spreadsheet between the gsx$ and .$t.
+                Boys_Table += [
+                    '<tr>',
+                    '<td>',
+                    json.feed.entry[i].gsx$boysrank.$t,
+                    '</td>',
+                    json.feed.entry[i].gsx$row.$t,
+                    '<td', 
+                    json.feed.entry[i].gsx$boysisb.$t, 
+                    '</h3></td>', 
+                    '<td', 
+                    json.feed.entry[i].gsx$boysiskl.$t,
+                    '</h3></td>',
+                    '<td', 
+                    json.feed.entry[i].gsx$boysism.$t,
+                    '</h3></td>',
+                    '<td', 
+                    json.feed.entry[i].gsx$boysjis.$t,
+                    '</h3></td>',
+                    '<td', 
+                    json.feed.entry[i].gsx$boyssas.$t,
+                    '</h3></td>',
+                    '<td', 
+                    json.feed.entry[i].gsx$boystas.$t,
+                    '</h3></td>',
+                    '<td', 
+                    json.feed.entry[i].gsx$boyswins.$t,
+                    '</h3></td>',
+                    '<td', 
+                    json.feed.entry[i].gsx$boyslosses.$t,
+                    '</h3></td>',
+                    '<td', 
+                    json.feed.entry[i].gsx$boyspoints.$t,
+                    '</h3></td>',
+                    '<td>',
+                    json.feed.entry[i].gsx$boystrophy.$t,
+                    '</td>',
+                    '</tr>'
+                ].join(''); //for each row join (concatenate) the list together as one long string. 
+            }
+            }
+            //put all three of our HTML strings into our div we made at the top of the page
+            document.getElementById('Boys_Standings').innerHTML = '<table style="margin: 0px auto;"><thead></thead><tbody><tr><td></td><td style="border-right:2px solid grey; border-left:2px solid grey; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3; text-align:center"><a href="standings.html"><button type="button" class="btn btn-default"><i class="glyphicon glyphicon-refresh"></i> Refresh</button></a></td><td style="padding:15px; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center;"><img src="img/school_ISB_60px.png" width="32"><strong> ISB</strong></h3></td><td style="padding:15px; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center; color:rgb(255,255,0)"><img src="img/school_ISKL_60px.png" width="32"><strong> ISKL</strong></h3></td><td style="padding:15px; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center; color:rgb(0,163,15)"><img src="img/school_ISM_60px.png" width="32"><strong> ISM</strong></h3></td><td style="padding:15px; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center; color:rgb(0,67,104)"><img src="img/school_JIS_60px.png" width="32"><strong> JIS</strong></h3></td><td style="padding:15px; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center; color:rgb(239,0,0)"><img src="img/school_SAS_60px.png" width="32"><strong> SAS</strong></h3></td><td style="padding:15px; border-right:2px solid grey; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center; color:rgb(40,0,125)"><img src="img/school_TAS_60px.png" width="32"><strong> TAS</strong></h3></td><td style="padding:10px; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center"><strong>W</strong></h3></td><td style="padding:10px; border-right:2px solid grey; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center"><strong>L</strong></h3></td><td style="padding:15px; border-right:2px solid grey; border-bottom:2px solid gray; border-top:2px solid grey; background-color:#c3c3c3"><h3 style="text-align:center"><strong>Points</strong></h3></td></tr>' + Boys_Table + '</table>'
+        }   
+    </script>
+
+    <div class="row">
+        <h2 style="text-align:center"><strong>Boys</strong></h2>
+    </div>
+    <div class="table-responsive" id="Boys">   
+        <div id="Boys_Standings"></div>    
+    </div>    
+    </div>
