@@ -1,0 +1,34 @@
+<!--Link to Google Spreadsheet as JSON feed-->
+ <script src="https://spreadsheets.google.com/feeds/list/0Ag48tSRbJ9WgdHdSZHlkY2lyV3NXY29VTTlWXzlDNEE/od6/public/values?alt=json-in-script&amp;callback=displayContent" type="text/javascript"></script>
+
+<script>
+function displayContent(json) {
+            var len = parseInt(json.feed.entry.length) //obtain length of table to iterate through, row-by-row in 'for' loop
+            
+            var Messages_Table='' //declare empty variable for table placeholder
+            
+            for (var i=len-1; i>len-50; i--) {
+                Messages_Table += [
+                    //fill table column-by-column with content parsed from JSON
+                    '<tr style="border-bottom: 1px dashed black"><td width="10%">',
+                    json.feed.entry[i].gsx$to.$t,
+                    '</td><td width="70%">',
+                    json.feed.entry[i].gsx$message.$t,
+                    '</td><td width="15%">',
+                    json.feed.entry[i].gsx$location.$t,
+                    '</td><td width="15%">',
+                    json.feed.entry[i].gsx$from.$t,
+                    '</td></tr>',
+                ].join('');  
+            }
+            
+            document.getElementById('Messages-Table').innerHTML = '<table style="text-align:center; font-family: Gloria Hallelujah"><tbody>' + Messages_Table + '</tbody></table>';
+            }
+    </script>  
+  </head>
+  <body style="background-color: #f5f5f5">
+      
+      <div class="table-responsive" id="Messages-Table"></div>
+      
+</body>  
+   
