@@ -1,4 +1,4 @@
-# Showcase
+# Portfolio
 Examples of code written by me, with comments explaining the motivation. Check the description files in each folder for a deeper explanation.
 
 ### Poll-ster
