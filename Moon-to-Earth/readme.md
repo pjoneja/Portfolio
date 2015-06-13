@@ -8,7 +8,10 @@ An interactive exhibit showing how long it takes light to travel from the moon t
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Moon-to-Earth/IMG_7352.JPG)
 
 ### How it works:
-The arduino sends a 4-bit signal encoded with information about which LEDs to turn on. The arduino is programmed to wait for 46 milliseconds before advancing to the next state by sending the next 4-bit signal. The decoders receive this signal and select one of 16 outputs to turn LOW. The decoders have a response time in the order of nanoseconds, and so it is negligible in the overall exhibit. The outputs of the decoders are connected to inverted solid state relays, such that a LOW signal means the LED turns ON. This choice of inversion is made to save power consumption and extend the life of the relays. There are two decoders because more than 16 outputs were required. I made use of the "inhibit" pins to turn one of the two decoders off completely while the other is in operation. 
+* The arduino sends a 4-bit signal encoded with information about which LEDs to turn on. The arduino is programmed to wait for 46 milliseconds before advancing to the next state by sending the next 4-bit signal. 
+* The decoders receive this signal and select one of 16 outputs to turn LOW. The decoders have a response time in the order of nanoseconds, and so it is negligible in the overall exhibit. The outputs of the decoders are connected to inverted solid state relays, such that a LOW signal means the LED turns ON. This choice of inversion is made to save power consumption and extend the life of the relays. 
+* There are two decoders because more than 16 outputs were required. I made use of the "inhibit" pins to turn one of the two decoders off completely while the other is in operation. 
+
 The end result looks rather simple, and to be honest, the project in itself is a great beginner's tutorial to Arduino. Still, each step required conscious design choices for reliability, maintainability, etc. 
 
 ### Further Notes/Improvements:
