@@ -13,7 +13,7 @@ An interactive exhibit intended to show that the visibile portion of the electro
 * The arduino selects and plays the appropriate file from the SD card attached to the VS1053 Music Player Shield
 
 ### How the extended version works
-There's a little easter egg I made: If you play *Mary Had A Little Lamb* on the piano keys, the exhibit will follow up with Kenny Loggins' *Danger Zone*
+There's a little easter egg I made: If you play *Mary Had A Little Lamb* on the piano keys, the exhibit will follow up with Kenny Loggins' *Danger Zone*. How it works:
 * An array with 26 integer entries is declared
 * Each time a key is pressed, its number is stored as the 26th entry. (The keys are numbered 0-7)
 * The next time a key is pressed, the entries in the array are rolled back one space, making room for the new entry
