@@ -1,5 +1,6 @@
 # Portfolio
 The subheadings below list examples of projects I've worked on, especially containting code written by me, with comments explaining the motivation. The purpose of this portfolio is to
+
 1. show the range of work I've done and variety of languages/tools I've worked with;
 2. document the thoughts and attitudes I have while building a project; and above all,
 3. keep track of what I have learned either by reading documentation, searching online forums like StackOverflow etc. or from peers and mentors. 
