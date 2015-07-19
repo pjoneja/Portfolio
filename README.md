@@ -12,8 +12,13 @@ View online [here](http://iasas.jisedu.or.id/basketball/fans.html)
 ### Data Tables
 A borrowed/adapted implementation of an HTML data table that leverages the power and ease-of-use of Google Spreadsheets. My implementation uses JSON, JavaScript, HTML Tables and Google Spreadsheets. View online [here](http://iasas.jisedu.or.id/basketball/standings.html)
 
+## Exhibit Technology Intern at the Smithsonian National Air and Space Museum in Washington, D.C. 
+---
+
+A collection of projects I worked on while interning at the Air and Space museum. Project files are saved in the "Air and Space" folder; project descriptions are listed below.
+
 ### Moon-to-Earth at light speed exhibit
-An interactive exhibit showing how long it takes light to travel from the moon to the earth (~1.3 seconds). Built using 28 solid state relays, two 16-output decoders, a bank of LEDs and an Arduino. Written in C/C++. View in person at the Smithsonian National Air and Space Museum in D.C. or watch video here.
+An interactive exhibit showing how long it takes light to travel from the moon to the earth (~1.3 seconds). Built using 28 solid state relays, two 16-output decoders, a bank of LEDs and an Arduino. Written in C/C++. View in person at the Air and Space Museum in D.C.
 
 ### Capacitive Touch Keyboard Piano exhibit
-An interactive exhibit intended to show that the visibile portion of the electromagnetic spectrum is analogous to one octave on a piano. Built using an MPR121 Capacitive Touch Sensor and a VS1053 Music Player Shield w/uSD Card, both from Adafruit, as well as an Arduino. View in person at the Smithsonian National Air and Space Museum in D.C. or watch video here.
+An interactive exhibit intended to show that the visibile portion of the electromagnetic spectrum is analogous to one octave on a piano. Built using an MPR121 Capacitive Touch Sensor and a VS1053 Music Player Shield w/uSD Card, both from Adafruit, as well as an Arduino. View in person at the Air and Space Museum in D.C.
