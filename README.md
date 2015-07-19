@@ -21,4 +21,4 @@ A collection of projects I worked on while interning at the Air and Space museum
 An interactive exhibit showing how long it takes light to travel from the moon to the earth (~1.3 seconds). Built using 28 solid state relays, two 16-output decoders, a bank of LEDs and an Arduino. Written in C/C++. View in person at the Air and Space Museum in D.C.
 
 ### Capacitive Touch Keyboard Piano exhibit
-An interactive exhibit intended to show that the visibile portion of the electromagnetic spectrum is analogous to one octave on a piano. Built using an MPR121 Capacitive Touch Sensor and a VS1053 Music Player Shield w/uSD Card, both from Adafruit, as well as an Arduino. View in person at the Air and Space Museum in D.C.
+An interactive exhibit intended to show that the visibile portion of the electromagnetic spectrum is analogous to one octave on a piano. Built using an MPR121 Capacitive Touch Sensor and a VS1053 Music Player Shield w/ microSD Card, both from Adafruit, as well as an Arduino. View in person at the Air and Space Museum in D.C.
