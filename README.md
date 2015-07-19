@@ -1,5 +1,12 @@
 # Portfolio
-Examples of code written by me, with comments explaining the motivation. Check the description files in each folder for a deeper explanation.
+The subheadings below list examples of projects I've worked on, especially containting code written by me, with comments explaining the motivation. The purpose of this portfolio is to
+1. show the range of work I've done and variety of languages/tools I've worked with;
+2. document the thoughts and attitudes I have while building a project; and above all,
+3. keep track of what I have learned either by reading documentation, searching online forums like StackOverflow etc. or from peers and mentors. 
+
+This portfolio is not about showing some clever hacks (most 'cuz they probably aren't that clever to begin with). It's about displaying the work I'm proud of at my current skill-level. I know I will continute to learn a lot more as I gain experience and I'm committed to adding to this repertoire. 
+
+Check the description files in each folder for a deeper explanation.
 
 ### Poll-ster
 A hacked-together implementation of an online audience poll using Google Spreadsheets, JSON, JavaScript and HTML Tables. 
@@ -24,7 +31,7 @@ An interactive exhibit showing how long it takes light to travel from the moon t
 An interactive exhibit intended to show that the visibile portion of the electromagnetic spectrum is analogous to one octave on a piano. Built using an MPR121 Capacitive Touch Sensor and a VS1053 Music Player Shield w/ microSD Card, both from Adafruit, as well as an Arduino. View in person at the Air and Space Museum in D.C.
 
 ### Timeline of Jet Aviation Video Selector exhibit
-An interactive video selector. Visitors press buttons numbered 0-9 to select one of 92 videos depicting the advances in design and technology of jet-powered aircraft. The exhibit has a simple design on the surface, but like everything else at the museum, it was necessary to take many more details into account when forming the user interface.
+An interactive video selector. Visitors press numbered buttons to select videos from a large video catalogue. The videos depict the advances in design and technology of jet-powered aircraft. The exhibit has a simple design on the surface, but like everything else at the museum, it was necessary to take many more details into account while designing the user interface.
 
 ### Expanding Space mechanical exhibit
 
