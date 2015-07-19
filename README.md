@@ -8,6 +8,7 @@ The subheadings below list examples of projects I've worked on, especially conta
 This portfolio is not about showing some clever hacks (most 'cuz they probably aren't that clever to begin with). It's about displaying the work I'm proud of at my current skill-level. I know I will continute to learn a lot more as I gain experience and I'm committed to adding to this repertoire. 
 
 Check the description files in each folder for a deeper explanation.
+
 ---
 
 ### Poll-ster
