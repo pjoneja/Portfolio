@@ -36,6 +36,3 @@ So, since I would have to wrestle with the BrightAuthor software regardless of w
 
 ### Further Notes:
 I remembered lessons learned from the previous two exhibits and made sure to debounce the inputs from the arcade buttons. At first, I programmed the arduino with 11 chunks of code that would debounce the button signals and output the appropriate keyboard stroke.  But once again, I found this code to be very long and repetitive. It went against my programmer's instinct of not repeating myself in code. I was quickly able to fold all the code into one 'for' loop, cutting 100 lines down to 26. Both versions are included here. They behave identically.
-
-
-
