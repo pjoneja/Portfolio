@@ -5,10 +5,10 @@ An interactive exhibit intended to show how the expansion of the universe means 
 Final Result:
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_0948.jpg)
 Build and installation:
-![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_0938.jpg)
-![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_0937.jpg)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_0938.JPG)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_0937.JPG)
 My co-intern selfie with NASA astronaut Reid Wiseman
-![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_7430.jpg)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_7430.JPG)
 
 ### How it works
 
