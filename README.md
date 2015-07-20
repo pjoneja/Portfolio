@@ -37,6 +37,7 @@ An interactive exhibit intended to show that the visibile portion of the electro
 An interactive video selector. Visitors press numbered buttons to select videos from a large video catalogue. The videos depict the advances in design and technology of jet-powered aircraft, from early, prototypical jets like the Bell XP-59A to a variety of specialized, modern jets like the Lockheed SR-71 and the Airbus A300. The exhibit has a simple design on the surface, but like everything else at the museum, it was necessary to take many more details into account while designing the user interface.
 
 ### Expanding Space mechanical exhibit
+An interactive exhibit intended to show how the expansion of the universe means the space between galaxies expands/distance between galaxies increases. Built using a bicycle mechanism, and spring to return to original position, with foam-core galaxies painted flourescent green glued to black spandex. Our job as interns was to replace the white LEDs with 400nm, near ultraviolet LEDS that would make the galaxies "glow" as the original design, as well as to perform a maintenance overhaul to worn out pieces. No programmable electronics here!
 
 ### Pixelator live video camera exhibit
 
