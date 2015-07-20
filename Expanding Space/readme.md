@@ -10,5 +10,17 @@ Build and installation:
 My co-intern selfie with NASA astronaut Reid Wiseman
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_7430.JPG)
 
-### How it works
+### How it works:
+The visitor rotates the handle, which in turn rotates a sprocket embedded below the exhibit's surface. This sprocket is connected by bike chain to a larger sprocket. Attached to this larger sprocket is a rod, that transforms rotational motion into approximate horizontal, linear motion. This linear motion drives the movement of four attachments on which spandex is mounted. As the entire mechanism is activated, the four attachments move closer and away from each other, simulating the expansion of space. Two springs attached to the mechanism ensure the return to the original, unexpanded position. 
 
+Ultraviolet LEDs mounted on the sides of the case illuminate the inside. Reflective aluminized mylar is used to increase this illuminating effect. The flourescent green galaxies glow under this light for a cool, space-y effect. 
+
+### What we did:
+* Replaced LEDs
+* Upgraded the AC-to-DC transformer to accomodate the larger wattage
+* Tightened the handle mechanism using a pneumatic press
+* Added more grease
+* Cleaned up the inside
+
+### Build time:
+Half-day
