@@ -4,8 +4,11 @@ An interactive exhibit intended to show how the expansion of the universe means 
 ### What it looks like
 Final Result:
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_0948.jpg)
-![online](https://github.com/pjoneja/Portfolio/blob/master/Capacitive%20Touch%20Piano/IMG_0866.JPG)
-![online](https://github.com/pjoneja/Portfolio/blob/master/Capacitive%20Touch%20Piano/IMG_0869.JPG)
+Build and installation:
+![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_0938.jpg)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_0937.jpg)
+My co-intern selfie with NASA astronaut Reid Wiseman
+![online](https://github.com/pjoneja/Portfolio/blob/master/Expanding%20Space/IMG_7430.jpg)
 
 ### How it works
 
