@@ -34,7 +34,7 @@ An interactive exhibit showing how long it takes light to travel from the moon t
 An interactive exhibit intended to show that the visibile portion of the electromagnetic spectrum is analogous to one octave on a piano. Built using an MPR121 Capacitive Touch Sensor and a VS1053 Music Player Shield w/ microSD Card, both from Adafruit, as well as an Arduino. View in person at the Air and Space Museum in D.C.
 
 ### Timeline of Jet Aviation Video Selector exhibit
-An interactive video selector. Visitors press numbered buttons to select videos from a large video catalogue. The videos depict the advances in design and technology of jet-powered aircraft. The exhibit has a simple design on the surface, but like everything else at the museum, it was necessary to take many more details into account while designing the user interface.
+An interactive video selector. Visitors press numbered buttons to select videos from a large video catalogue. The videos depict the advances in design and technology of jet-powered aircraft, from early, prototypical jets like the Bell XP-59A to a variety of specialized, modern jets like the Lockheed SR-71 and the Airbus A300. The exhibit has a simple design on the surface, but like everything else at the museum, it was necessary to take many more details into account while designing the user interface.
 
 ### Expanding Space mechanical exhibit
 
