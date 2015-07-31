@@ -1,0 +1,2 @@
+# Pixelator live video camera exhbit
+An interactive camera exhibit that demonstrates the concept of pixels and camera resolution. In the context of the the 'Looking at Earth' gallery, this exhibit illustrates how early earth-facing satellites were limited by low resolution, while newer ones can see much greater detail due to advances in camera resolution. The exhibit greatly simplifies the concept, and puts the user in control so that one can understand and interact with the idea of pixels and resolution.
