@@ -31,40 +31,40 @@ try:
 		plus = GPIO.input(17)
 		minus = GPIO.input(4)
 		if ((not prev_plus) and plus):
-    	if (pixelsize < 5):
+    			if (pixelsize < 5):
 				pixelsize += 1
-        if (pixelsize == 1):
-          img = Image.open('black.png')
-        else:
-          camera.capture('cap.png')
-          img = Image.open('cap.png')
-          pad = Image.new('RGB', (
-          ((img.size[0] + 31) // 32) * 32,
-          ((img.size[1] + 15) // 16) * 16,
-          ))
-        pad.paste(img, (0, 0))
-        o = camera.add_overlay(pad.tostring(), size=img.size)
-        o.alpha = 255
-        o.layer = 3
-    		camera.resolution = (h[pixelsize],v[pixelsize])
-    		sleep(0.1)
-    		camera.remove_overlay(o)
+                                if (pixelsize == 1):
+                                        img = Image.open('black.png')
+                                else:
+                                        camera.capture('cap.png')
+                                        img = Image.open('cap.png')
+                                pad = Image.new('RGB', (
+                                        ((img.size[0] + 31) // 32) * 32,
+                                        ((img.size[1] + 15) // 16) * 16,
+                                        ))
+                                pad.paste(img, (0, 0))
+                                o = camera.add_overlay(pad.tostring(), size=img.size)
+                                o.alpha = 255
+                                o.layer = 3
+    				camera.resolution = (h[pixelsize],v[pixelsize])
+    				sleep(0.1)
+    				camera.remove_overlay(o)
 		if ((not prev_minus) and minus):
 			if (pixelsize > 0):			
 				pixelsize -= 1
 				if (pixelsize == 4):
-          img = Image.open('black.png')
-        else:
-          camera.capture('cap.png')
-          img = Image.open('cap.png')
-          pad = Image.new('RGB', (
-          ((img.size[0] + 31) // 32) * 32,
-          ((img.size[1] + 15) // 16) * 16,
-          ))
-        pad.paste(img, (0, 0))
-        o = camera.add_overlay(pad.tostring(), size=img.size)
-        o.alpha = 255
-        o.layer = 3
+                                        img = Image.open('black.png')
+                                else:
+                                        camera.capture('cap.png')
+                                        img = Image.open('cap.png')
+                                pad = Image.new('RGB', (
+                                        ((img.size[0] + 31) // 32) * 32,
+                                        ((img.size[1] + 15) // 16) * 16,
+                                        ))
+                                pad.paste(img, (0, 0))
+                                o = camera.add_overlay(pad.tostring(), size=img.size)
+                                o.alpha = 255
+                                o.layer = 3
 				camera.resolution = (h[pixelsize],v[pixelsize])
 				sleep(0.1)
 				camera.remove_overlay(o)
