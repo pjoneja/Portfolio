@@ -8,7 +8,7 @@ A hacked-together implementation of an public comment box using Google Forms, JS
 
 ### Further Notes:
 * Used Google Spreadsheets for extremely simple (read: basic) user experience. See screenshot above. Users can post their message WITHOUT having to create an account.
-* Implement data validation (Google Form / Spreadsheet feature) to filter out vulgar language on a school website. It's just a basic law of the Internet, when people get to be anonymous online, they tend to abuse their welcome.
+* Implement data validation (Google Form / Spreadsheet feature) to filter out vulgar language on a school website. It's just a basic law of the Internet, when people get to be anonymous online, they tend to abuse their welcome. This filter was very rudimentary, and I recognize it would fall prey to the [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 
 ### Future Improvements:
 * Security: Prevent HTML/JavaScript injection attacks by 'escaping' the use of such syntax by the user. Leverage existing frameworks such as [Zend Escaper](http://framework.zend.com/manual/current/en/modules/zend.escaper.escaping-javascript.html)
