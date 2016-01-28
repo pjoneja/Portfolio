@@ -40,5 +40,6 @@ An interactive video selector. Visitors press numbered buttons to select videos 
 An interactive exhibit intended to show how the expansion of the universe means the space between galaxies expands/distance between galaxies increases. Built using a bicycle mechanism, and spring to return to original position, with foam-core galaxies painted flourescent green glued to black spandex. Our job as interns was to replace the white LEDs with 400nm, near ultraviolet LEDS that would make the galaxies "glow" as the original design, as well as to perform a maintenance overhaul to worn out pieces. No programmable electronics here!
 
 ### [Pixelator live video camera exhibit](https://github.com/pjoneja/Portfolio/tree/master/Pixelator)
+An interactive camera exhibit that demonstrates the concept of pixels and camera resolution. In the context of the the 'Looking at Earth' gallery, this exhibit illustrates how early earth-facing satellites were limited by low resolution, while newer ones can see much greater detail due to advances in camera resolution. The exhibit greatly simplifies the concept, and puts the user in control so that one can understand and interact with the idea of pixels and resolution.
 
 ### Around the World in 18 days NFC exhibit
