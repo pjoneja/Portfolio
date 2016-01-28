@@ -17,5 +17,5 @@ testing in the workshop
 [![youtube](http://img.youtube.com/vi/4Ho5DEPTds8/0.jpg)](https://www.youtube.com/watch?v=4Ho5DEPTds8)
 
 #How it works
-* There are _three_ five subsystems that work together to make this exhibit come together
+* There are ~~three~~ five subsystems that work together to make this exhibit come together
 * The first is the NFC readers
