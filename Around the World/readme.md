@@ -3,7 +3,8 @@ In 1936, Herbet Ekins flew around the world flying only on commercially operated
 
 # What it looks like:
 Final installation
-![![youtube](http://img.youtube.com/vi/7LiJq8QrP9Y/0.jpg)](https://www.youtube.com/watch?v=7LiJq8QrP9Y)
+
+[![youtube](http://img.youtube.com/vi/7LiJq8QrP9Y/0.jpg)](https://www.youtube.com/watch?v=7LiJq8QrP9Y)
 
 teardown of old hydraulic systems
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Around%20the%20World/IMG_1013.JPG?raw=true)
@@ -12,4 +13,4 @@ back of current build
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Around%20the%20World/IMG_1127.JPG?raw=true)
 
 testing in the workshop
-![![youtube](http://img.youtube.com/vi/4Ho5DEPTds8/0.jpg)](https://www.youtube.com/watch?v=4Ho5DEPTds8)
+[![youtube](http://img.youtube.com/vi/4Ho5DEPTds8/0.jpg)](https://www.youtube.com/watch?v=4Ho5DEPTds8)
