@@ -21,3 +21,6 @@ To a viewer, the whole process looks like the screen just freezes for a fraction
 * I made use of some existing libraries to make my job easier. For example, I used PyCamera to capture still images from the RPi camera. I also used Python Imaging Library (PIL) to open and display the saved image on screen. 
 * There is an intelligent use of memory resources. Images are only stored temporarily - when a new still is captured, the old one is overwritten. Debugging this memory leak took a lot of fiddling, but I learned how to use the libraries on a deeper level. 
 * Again, my knowledge of debouncing signals from the arcade buttons was indispensible in making sure this exhibit worked reliably. 
+
+### Build Time:
+3 days, with (another 2 days install time)
