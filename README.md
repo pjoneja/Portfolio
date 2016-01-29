@@ -42,4 +42,5 @@ An interactive exhibit intended to show how the expansion of the universe means 
 ### [Pixelator live video camera exhibit](https://github.com/pjoneja/Portfolio/tree/master/Pixelator)
 An interactive camera exhibit that demonstrates the concept of pixels and camera resolution. In the context of the the 'Looking at Earth' gallery, this exhibit illustrates how early earth-facing satellites were limited by low resolution, while newer ones can see much greater detail due to advances in camera resolution. The exhibit greatly simplifies the concept, and puts the user in control so that one can understand and interact with the idea of pixels and resolution.
 
-### Around the World in 18 days NFC exhibit
+### [Around the World in 18 days NFC exhibit](https://github.com/pjoneja/Portfolio/tree/master/Around%20the%20World)
+In 1936, Herbet Ekins flew around the world flying only on commercially operated flights. This interactive exhibit gives visitors a better understanding of this first-in-history journey that took 18 days. My job as an intern was to replace the old hydraulic and counter-weights system that was powering the exhibit in the past. This system had stopped working many years ago due to it's mechanical complexity. This was by far the most complicated exhibit I designed and built during my internship.
