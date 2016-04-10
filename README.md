@@ -1,5 +1,5 @@
 # Portfolio
-The subheadings below list examples of projects I've worked on, especially containting code written by me, with comments explaining the motivation. The purpose of this portfolio is to
+The subheadings below list examples of projects I've worked on. Many of these include code written by me with comments explaining the motivation. The purpose of this portfolio is to
 
 1. show the range of work I've done and variety of languages/tools I've worked with;
 2. document the thoughts and attitudes I have while building a project; and above all,
@@ -8,6 +8,8 @@ The subheadings below list examples of projects I've worked on, especially conta
 This portfolio is not about showing some clever hacks. It's about displaying the work I'm proud of at my current skill-level. I know I will continute to learn a lot more as I gain experience and I'm committed to adding to this repertoire. 
 
 Check the description files in each folder for a deeper explanation.
+
+Lastly, I wish I had taken photos that are 'prettier'. Unfortunately, the labs/workshop spaces where beautiful things are made aren't always pretty themselves. 
 
 ---
 
