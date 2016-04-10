@@ -1,6 +1,8 @@
 # Messages Box
 A hacked-together implementation of an public comment box using Google Forms, JSON, JavaScript and HTML Tables. May not be as 'pretty' as Disqus/other comment box implementations, but this solutions allows for full administrative control over what gets posted. View online [here](http://iasas.jisedu.or.id/basketball/fans.html)
 
+Open the .html file above to review my code.
+
 ### What it looks like:
 ![online](https://github.com/pjoneja/Portfolio-Showcase/blob/master/Fan%20Messages/MessagesBox.png)
 ![online](https://github.com/pjoneja/Portfolio-Showcase/blob/master/Fan%20Messages/GoogleForm.png)
