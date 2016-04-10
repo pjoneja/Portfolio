@@ -5,22 +5,23 @@ The subheadings below list examples of projects I've worked on, especially conta
 2. document the thoughts and attitudes I have while building a project; and above all,
 3. keep track of what I have learned either by reading documentation, searching online forums like StackOverflow etc. or from peers and mentors. 
 
-This portfolio is not about showing some clever hacks (most 'cuz they probably aren't that clever to begin with). It's about displaying the work I'm proud of at my current skill-level. I know I will continute to learn a lot more as I gain experience and I'm committed to adding to this repertoire. 
+This portfolio is not about showing some clever hacks. It's about displaying the work I'm proud of at my current skill-level. I know I will continute to learn a lot more as I gain experience and I'm committed to adding to this repertoire. 
 
 Check the description files in each folder for a deeper explanation.
 
 ---
 
-### Poll-ster
+### [Win/Loss Tables](https://github.com/pjoneja/Portfolio/tree/master/Data%20Tables)
+A borrowed/adapted implementation of an HTML data table that leverages the power and ease-of-use of Google Spreadsheets. My implementation uses JSON, JavaScript, HTML Tables and Google Spreadsheets. View online [here](http://iasas.jisedu.or.id/basketball/standings.html). Note: Link may not work during academic holidays.
+
+### [Poll-ster](https://github.com/pjoneja/Portfolio/tree/master/Poll-ster)
 A hacked-together implementation of an online audience poll using Google Spreadsheets, JSON, JavaScript and HTML Tables. 
 View online [here](http://iasas.jisedu.or.id/basketball/fans.html). Note: Link may not work during academic holidays.
 
-### Messages Box
+### [Messages Box](https://github.com/pjoneja/Portfolio/tree/master/Fan%20Messages)
 A hacked-together implementation of an public comment box using Google Forms, JSON, JavaScript and HTML Tables. May not be as 'pretty' as Disqus/other comment box implementations, but this solutions allows for full administrative control over what gets posted.
 View online [here](http://iasas.jisedu.or.id/basketball/fans.html). Note: Link may not work during academic holidays.
 
-### Data Tables
-A borrowed/adapted implementation of an HTML data table that leverages the power and ease-of-use of Google Spreadsheets. My implementation uses JSON, JavaScript, HTML Tables and Google Spreadsheets. View online [here](http://iasas.jisedu.or.id/basketball/standings.html). Note: Link may not work during academic holidays.
 
 ---
 ## Exhibit Technology Intern at the Smithsonian National Air and Space Museum in Washington, D.C. 
