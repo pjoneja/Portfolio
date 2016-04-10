@@ -1,6 +1,8 @@
 # Data Tables
 A borrowed/adapted implementation of an HTML data table that leverages the power and ease-of-use of Google Spreadsheets. My implementation uses JSON, JavaScript, HTML Tables and Google Spreadsheets. View online [here](http://iasas.jisedu.or.id/basketball/standings.html)
 
+Open the DataTables.html file above to review my code.
+
 ### What it looks like:
 ![online](https://github.com/pjoneja/Portfolio-Showcase/blob/master/Data%20Tables/TableWebsite.png)
 ![online](https://github.com/pjoneja/Portfolio-Showcase/blob/master/Data%20Tables/TableGSheet.png)
