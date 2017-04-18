@@ -1,24 +1,12 @@
 ### Problem Statement
-![ps1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/ps1.png?raw=true)
-![ps2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/ps2.png?raw=true)
+![ps1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Visualization%20of%20the%20Solar%20System/ps1.png?raw=true)
+![ps2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Visualization%20of%20the%20Solar%20System/ps2.png?raw=true)
 
 ### My Approach
-I approached this problem by solving each part individually. It was clear from the questions that each part could be logically considered it’s own function and the next part would call the previous function as necessary. This helps to organize code and prevent code being rewritten. Plus, if for some reason I need to change the semi-empirical formula, I only need to change it in one place: the BindingEnergy function.
+In this problem, we are basically writing a python script that runs simply top to bottom. There are barely any user defined functions to create. Since we are working sequentially, the proper sequence is to setup the necessary objects and place them in their initial locations. Once the objects are present, a simple nested-loop can take care of animating frame by frame. This is a strong indication that object-oriented programming is necessary, and since there are many objects, an array of such objects is a good way to manage them.
 
-To determine the most stable at a given Z (i.e. highest binding energy per nucleon at a given Z), my approach is similar to that learned in class and from previous experience:
-1.	We initialize variables to hold our final answer. These must be assigned initial values of any number less than the minimum. In this case, the lowest value occurs when A = 1, Z = 1, which means the minimum binding energy per nucleon is –95.51. I initialized my holder variable less than this, maxBperA = -100.0
-2.	We compute the binding energy per nucleon for every combination of A and Z in the required range. During every iteration of the for loop, compare against the holder variable (the maximum so far)
-3.	If the current iteration is greater than the maximum so far, replace the holder variable’s value with the current iteration. 
-4.	After computing all values, return the values corresponding to the most stable
+I think fiddling around with user-defined parameters proved to be quite hard. If I changed the planetary radius factor (c1) then it made the sun overlap other planets in the visualization. If the I changed the orbit radius factor (c3), then the farthest planets force the window to resize and so the closest planets would become too small again. I think even more fiddling with user parameters is necessary.
 
-A similar approach is used again to find the value of Z at which the maximum binding energy per nucleon is achieved. 
+I decided to add an angular frequency factor (c2) to quickly change the perceived period of orbit. Some plants look quite fast indeed!
 
-Answer:
-Most stable atom is
-Z = 24, A = 50, B/A = 8.532622751365931
-
-![1.1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.1.png?raw=true)
-![1.2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.2.png?raw=true)
-![1.3](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.3.png?raw=true)
-![1.4a](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.4a.png?raw=true)
-![1.4b](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.4b.png?raw=true)
+[![youtube](http://img.youtube.com/vi/AYdgTquUytY/0.jpg)](https://www.youtube.com/watch?v=AYdgTquUytY)
