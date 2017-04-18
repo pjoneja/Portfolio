@@ -11,19 +11,6 @@ Check the description files in each folder for a deeper explanation.
 
 Lastly, I wish I had taken photos that are 'prettier'. Unfortunately, the labs/workshop spaces where beautiful things are made aren't always pretty themselves. 
 
----
-
-### [Win/Loss Tables](https://github.com/pjoneja/Portfolio/tree/master/Data%20Tables)
-A borrowed/adapted implementation of an HTML data table that leverages the power and ease-of-use of Google Spreadsheets. My implementation uses JSON, JavaScript, HTML Tables and Google Spreadsheets. View online [here](http://iasas.jisedu.or.id/basketball/standings.html). Note: Link may not work during academic holidays.
-
-### [Poll-ster](https://github.com/pjoneja/Portfolio/tree/master/Poll-ster)
-A hacked-together implementation of an online audience poll using Google Spreadsheets, JSON, JavaScript and HTML Tables. 
-View online [here](http://iasas.jisedu.or.id/basketball/fans.html). Note: Link may not work during academic holidays.
-
-### [Messages Box](https://github.com/pjoneja/Portfolio/tree/master/Fan%20Messages)
-A hacked-together implementation of an public comment box using Google Forms, JSON, JavaScript and HTML Tables. May not be as 'pretty' as Disqus/other comment box implementations, but this solutions allows for full administrative control over what gets posted.
-View online [here](http://iasas.jisedu.or.id/basketball/fans.html). Note: Link may not work during academic holidays.
-
 
 ---
 ## Exhibit Technology Intern at the Smithsonian National Air and Space Museum in Washington, D.C. 
@@ -47,3 +34,17 @@ An interactive camera exhibit that demonstrates the concept of pixels and camera
 
 ### [Around the World in 18 days NFC exhibit](https://github.com/pjoneja/Portfolio/tree/master/Around%20the%20World)
 In 1936, Herbet Ekins flew around the world flying only on commercially operated flights. This interactive exhibit gives visitors a better understanding of this first-in-history journey that took 18 days. My job as an intern was to replace the old hydraulic and counter-weights system that was powering the exhibit in the past. This system had stopped working many years ago due to it's mechanical complexity. This was by far the most complicated exhibit I designed and built during my internship.
+
+---
+## Interactive and Responsive Website for Interscholastic Association of Southeast Asian Schools (IASAS)
+
+### [Win/Loss Tables](https://github.com/pjoneja/Portfolio/tree/master/Data%20Tables)
+A borrowed/adapted implementation of an HTML data table that leverages the power and ease-of-use of Google Spreadsheets. My implementation uses JSON, JavaScript, HTML Tables and Google Spreadsheets. View online [here](http://iasas.jisedu.or.id/basketball/standings.html). Note: Link may not work during academic holidays.
+
+### [Poll-ster](https://github.com/pjoneja/Portfolio/tree/master/Poll-ster)
+A hacked-together implementation of an online audience poll using Google Spreadsheets, JSON, JavaScript and HTML Tables. 
+View online [here](http://iasas.jisedu.or.id/basketball/fans.html). Note: Link may not work during academic holidays.
+
+### [Messages Box](https://github.com/pjoneja/Portfolio/tree/master/Fan%20Messages)
+A hacked-together implementation of an public comment box using Google Forms, JSON, JavaScript and HTML Tables. May not be as 'pretty' as Disqus/other comment box implementations, but this solutions allows for full administrative control over what gets posted.
+View online [here](http://iasas.jisedu.or.id/basketball/fans.html). Note: Link may not work during academic holidays.
