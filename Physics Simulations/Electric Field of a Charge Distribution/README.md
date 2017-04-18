@@ -105,3 +105,4 @@ Figure 6:
 --
 Figure 7:
 ![fig7](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Electric%20Field%20of%20a%20Charge%20Distribution/figure_7.png?raw=true)
+--
