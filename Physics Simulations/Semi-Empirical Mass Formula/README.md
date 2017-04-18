@@ -1,7 +1,8 @@
-###Problem Statement
+### Problem Statement
+![ps1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/ps1.png?raw=true)
+![ps2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/ps2.png?raw=true)
 
-
-###My Approach
+### My Approach
 I approached this problem by solving each part individually. It was clear from the questions that each part could be logically considered it’s own function and the next part would call the previous function as necessary. This helps to organize code and prevent code being rewritten. Plus, if for some reason I need to change the semi-empirical formula, I only need to change it in one place: the BindingEnergy function.
 
 To determine the most stable at a given Z (i.e. highest binding energy per nucleon at a given Z), my approach is similar to that learned in class and from previous experience:
@@ -15,3 +16,9 @@ A similar approach is used again to find the value of Z at which the maximum bin
 Answer:
 Most stable atom is
 Z = 24, A = 50, B/A = 8.532622751365931
+
+![1.1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.1.png?raw=true)
+![1.2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.2.png?raw=true)
+![1.3](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.3.png?raw=true)
+![1.4a](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.4a.png?raw=true)
+![1.4b](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Semi-Empirical%20Mass%20Formula/Joneja-1.4b.png?raw=true)
