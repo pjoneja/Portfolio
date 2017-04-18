@@ -1,6 +1,6 @@
 ### Problem Statement
-![ps1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/ps1.png?raw=true)
-![ps2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/ps2.png?raw=true)
+![ps1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/ps1.png?raw=true)
+![ps2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/ps2.png?raw=true)
 
 ### My Approach
 I had a lot of fun with this problem and decided to take it a step further. The original problem says to plot the points in Mandelbrot Set in black (and the points outside in white). 
@@ -15,17 +15,17 @@ Using this window reshaping feature, I zoomed in to the small details of the Man
 
 
 figure 0
-![fig0](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/figure_0.png?raw=true)
+![fig0](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_0.png?raw=true)
 figure 1
-![fig1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/figure_1.png?raw=true)
+![fig1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_1.png?raw=true)
 figure 2
-![fig2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/figure_2.png?raw=true)
+![fig2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_2.png?raw=true)
 figure 3
-![fig3](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/figure_3.png?raw=true)
+![fig3](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_3.png?raw=true)
 figure 4
-![fig4](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/figure_4.png?raw=true)
+![fig4](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_4.png?raw=true)
 figure 5
-![fig5](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/figure_5.png?raw=true)
+![fig5](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_5.png?raw=true)
 figure 6
-![fig6](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%Mandelbrot%Set/figure_6.png?raw=true)
+![fig6](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_6.png?raw=true)
 
