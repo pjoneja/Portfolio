@@ -11,4 +11,4 @@ I was tempted to use a slice of the primes list that are less than sqrt(n), but 
 
 Reading the problem statement and hints literally was really helpful in this problem.
 
-![2]((https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Prime%20Numbers/Joneja-2.png?raw=true)
+![2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/Prime%20Numbers/Joneja-2.png?raw=true)
