@@ -9,4 +9,6 @@ I think fiddling around with user-defined parameters proved to be quite hard. If
 
 I decided to add an angular frequency factor (c2) to quickly change the perceived period of orbit. Some plants look quite fast indeed!
 
+Click on the image below to watch the simulation exported as a YouTube video
+
 [![youtube](http://img.youtube.com/vi/AYdgTquUytY/0.jpg)](https://www.youtube.com/watch?v=AYdgTquUytY)
