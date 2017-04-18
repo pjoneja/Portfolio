@@ -14,18 +14,25 @@ I also added some useful features like a window resizing feature (change the lef
 Using this window reshaping feature, I zoomed in to the small details of the Mandelbrot Set to explore its fractal nature. See screenshots figure3 to figure6.
 
 
-figure 0
+figure 0:
 ![fig0](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_0.png?raw=true)
-figure 1
+--
+figure 1:
 ![fig1](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_1.png?raw=true)
-figure 2
+--
+figure 2:
 ![fig2](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_2.png?raw=true)
-figure 3
+--
+figure 3:
 ![fig3](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_3.png?raw=true)
-figure 4
+--
+figure 4:
 ![fig4](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_4.png?raw=true)
-figure 5
+--
+figure 5:
 ![fig5](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_5.png?raw=true)
-figure 6
+--
+figure 6:
 ![fig6](https://github.com/pjoneja/Portfolio/blob/master/Physics%20Simulations/The%20Mandelbrot%20Set/figure_6.png?raw=true)
+--
 
