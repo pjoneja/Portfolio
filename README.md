@@ -13,7 +13,7 @@ Lastly, I wish I had taken photos that are 'prettier'. Unfortunately, the labs/w
 
 ---
 ## Research & Development Engineering Intern at Universal Creative, Universal Parks & Resorts worldwide
-Due to non-disclosure agreements I have signed, I am not able to write any specifics of what I worked on. 
+Due to non-disclosure agreements I have signed, I am not able to write about any specifics of what I worked on. 
 
 What I can say:
 - Designed an ultra-lightweight robot with carbon fiber components to meet specific requirements
