@@ -11,9 +11,35 @@ Check the description files in each folder for a deeper explanation.
 
 Lastly, I wish I had taken photos that are 'prettier'. Unfortunately, the labs/workshop spaces where beautiful things are made aren't always pretty themselves. 
 
+---
+## Research & Development Engineering Intern at Universal Creative, Universal Parks & Resorts worldwide
+Due to non-disclosure agreements I have signed, I am not able to write any specifics of what I worked on. 
+
+What I can say:
+- Designed an ultra-lightweight robot with carbon fiber components to meet specific requirements
+- Collaborated closely with machinists and specialized vendors to fabricate precision parts
+- Rapidly iterated the design 5 times after reviews with 2 Sr. Engineers and Director of Show Systems 
+- Prototyped a low-cost animatronic figure and fabricated an automated test rig to study durability
+- Presented my dept’s work at a company-wide “Demo Day” involving designers and marketing teams
 
 ---
-## Exhibit Technology Intern at the Smithsonian National Air and Space Museum in Washington, D.C. 
+## Automation Engineering Intern at Energy Metrics, New York, NY
+Again, due to specific NDAs, all I can say:
+- Tested and programmed RESTful API in C# to integrate commercial IoT devices to Energy Metrics’ core product
+- Participated in frequent code reviews to implement programming design patterns to improve code reusability
+- Initiated research and designed first machine learning pipeline to learn energy usage from user behavior data
+- Independently presented research to company president and VPs of Engineering and Product 
+
+---
+## Physics Simulations
+A project-based class that took a deep dive into algorithms. Topics covered included numerical integration, computing derivatives, solving ODEs with higher-order Runge-Kutta methods, optimization algorithms, Fourier transforms. 
+
+My final project was a visual simulation of a special kind of spinning top called a *tippe top*. The paper I wrote proved that the code I wrote followed physical laws of conservation of angular momentum and energy while minimizing error.
+
+All projects in Python. Read about [each project in the folder here](https://github.com/pjoneja/Portfolio/tree/master/Physics%20Simulations)
+
+---
+## Exhibit Technology / Mechanical Engineering Intern at the Smithsonian National Air and Space Museum in Washington, D.C. 
 
 A collection of projects I worked on while interning at the Air and Space museum. Project files are saved in individual folders; project descriptions are listed below.
 
