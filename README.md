@@ -34,9 +34,9 @@ Again, due to specific NDAs, all I can say:
 ## Physics Simulations
 A project-based class that took a deep dive into algorithms. Topics covered included numerical integration, computing derivatives, solving ODEs with higher-order Runge-Kutta methods, optimization algorithms, Fourier transforms. 
 
-My final project was a visual simulation of a special kind of spinning top called a *tippe top*. The paper I wrote proved that the code I wrote followed physical laws of conservation of angular momentum and energy while minimizing error.
+[My final project](https://github.com/pjoneja/TippeTop) was a visual simulation of a special kind of spinning top called a [*tippe top*](https://github.com/pjoneja/TippeTop). The [paper](https://github.com/pjoneja/TippeTop/blob/master/Joneja-TippeTop.pdf) I wrote proved that the code I wrote followed physical laws of conservation of angular momentum and energy while minimizing error.
 
-All projects in Python. Read about [each project in the folder here](https://github.com/pjoneja/Portfolio/tree/master/Physics%20Simulations)
+All projects in Python. Read about [all the other projects in the folder here](https://github.com/pjoneja/Portfolio/tree/master/Physics%20Simulations)
 
 ---
 ## Exhibit Technology / Mechanical Engineering Intern at the Smithsonian National Air and Space Museum in Washington, D.C. 
