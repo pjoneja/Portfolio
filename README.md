@@ -31,7 +31,7 @@ Again, due to specific NDAs, all I can say:
 - Independently presented research to company president and VPs of Engineering and Product 
 
 ---
-## Physics Simulations
+## Physics Simulations, The Cooper Union
 A project-based class that took a deep dive into algorithms. Topics covered included numerical integration, computing derivatives, solving ODEs with higher-order Runge-Kutta methods, optimization algorithms, Fourier transforms. 
 
 [My final project](https://github.com/pjoneja/TippeTop) was a visual simulation of a special kind of spinning top called a [*tippe top*](https://github.com/pjoneja/TippeTop). The [paper](https://github.com/pjoneja/TippeTop/blob/master/Joneja-TippeTop.pdf) I wrote proved that the code I wrote followed physical laws of conservation of angular momentum and energy while minimizing error.
