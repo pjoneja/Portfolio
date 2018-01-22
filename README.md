@@ -30,7 +30,33 @@ Again, due to specific NDAs, all I can say:
 - Initiated research and designed first machine learning pipeline to learn energy usage from user behavior data
 - Independently presented research to company president and VPs of Engineering and Product 
 
+## Racing Wheelchair for Backwards Bill, Senior Capstone Project, Achilles International/The Cooper Union
+*(This project is currently in-progress)*
+
+"Backwards" Bill Reilly is a marathon athlete with Cerebral Palsy - a neurological disorder that limits muscle coordination. His disability means he runs long distances by sitting in a customized wheelchair that faces backwards and uses his feet to propel himself by pushing on the ground. In a race like the New York City Marathon or Boston Marathon, Bill relies on at least four guides to run with him.
+
+Bill's current racing wheelchair has no brakes and no steering, which is not safe for both Bill and his guides. To slow him down, two guides push down on each side of Bill's chair. To steer, the guides need to lift and drag to redirect Bill's chair. This is especially dangerous for sharp turns right after a downhill, when guides are clearing a path through the crowd for Bill to pass. The guides risk getting run over by a chair that is difficult to control.
+
+Throughout the design process, we are mindful that every person in Team Bill has physical and social needs that must be addressed by any proposed solutions. First, we will design mechanisms that make it possible for both Bill and his guides to steer and brake the wheelchair safely. We will also design an improved seat belt and a customized shoe to fit Bill's unique running style.
+
 ---
+
+## Fully-Automated Espresso Machine, Machine Design, The Cooper Union
+A machine designed and manufactured from scratch to brew coffee from bean to cup. It is capable of freshly grinding whole coffee beans, packing/pressurizing the brewing chamber with a piston and delivering high-quality coffee to the cup. We have prototyped the individual mechanisms, engineered the closed-loop controls, and are moving on to manufacturing the final machine using food-safe engineering materials like stainless steel, polyethylene (HDPE) and nylon.
+
+---
+
+## "StopBot", Autonomous Mobile Robot, The Cooper Union
+StopBot won first place and set a university "world record" in the annual autonomous robot competition. StopBot is designed to detect enemy robots and shoot a ping pong ball, while safely navigating the arena by planning a path to avoid all obstacles. The robot is built using machined nylon, laser cut acrylic, 
+
+Explore the robot's design and code here. And read the final paper here.
+
+---
+
+## "ScaredBot", Sumo Fighting Robot, The Cooper Union
+
+---
+
 ## Physics Simulations, The Cooper Union
 A project-based class that took a deep dive into algorithms. Topics covered included numerical integration, computing derivatives, solving ODEs with higher-order Runge-Kutta methods, optimization algorithms, Fourier transforms. 
 
