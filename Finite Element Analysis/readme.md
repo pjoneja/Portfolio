@@ -6,12 +6,16 @@ The final paper provides documentation of the design process, including material
 Read the final report [here](https://github.com/pjoneja/Portfolio/raw/master/StopBot%20Autonomous%20Mobile%20Robot/StopBot_AutonomousMobileRobot_FinalReport.pdf)
 
 ### What it looks like:
-![online](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/1.png)
-![online](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/2.png)
-![online](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/2_a.png)
-![online](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/3.png)
-![online](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/4.png)
-![online](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/5.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/1.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/2.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/3.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/4.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/5.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/6.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/7.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/8.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/9.png)
+![online](https://github.com/pjoneja/Portfolio/blob/master/Finite%20Element%20Analysis/10.png)
 
 
 
