@@ -50,7 +50,8 @@ A machine designed and manufactured from scratch to brew coffee from bean to cup
 ## [Finite Element Analysis, The Cooper Union](https://github.com/pjoneja/Portfolio/tree/master/Finite%20Element%20Analysis)
 Learning to use FEA software (ANSYS) to solve structural and thermal engineering problems. The final project was to use FEA as a design tool in cooking a turkey. The simulations takes into account material properties of food like turkey, duck, chicken, stuffing as well as phase changes during the oven cooking process. The cooking procedure involves choosing conductive and convective boundary conditions to optimize the trade-off between faster cooking time and minimal burned volume.
 
-See screenshots of my work and the final report in the folder [here](https://github.com/pjoneja/Portfolio/tree/master/Finite%20Element%20Analysis).
+See screenshots of my work and the final report in the folder [here](https://github.com/pjoneja/Portfolio/tree/master/Finite%20Element%20Analysis). 
+Read the final report [here](https://github.com/pjoneja/Portfolio/raw/master/StopBot%20Autonomous%20Mobile%20Robot/StopBot_AutonomousMobileRobot_FinalReport.pdf)
 
 ---
 
