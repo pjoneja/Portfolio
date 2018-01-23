@@ -42,9 +42,16 @@ Throughout the design process, we are mindful that every person in Team Bill has
 ---
 
 ## Fully-Automated Espresso Machine, Machine Design, The Cooper Union
+*(This project is currently in-progress)*
+
 A machine designed and manufactured from scratch to brew coffee from bean to cup. It is capable of freshly grinding whole coffee beans, packing/pressurizing the brewing chamber with a piston and delivering high-quality coffee to the cup. We have prototyped the individual mechanisms, engineered the closed-loop controls, and are moving on to manufacturing the final machine using food-safe engineering materials like stainless steel, polyethylene (HDPE) and nylon.
 
 ---
+## Finite Element Analysis, The Cooper Union
+Learning to use FEA software (ANSYS) to solve structural and thermal engineering problems. The final project was to use FEA as a design tool in cooking a turkey. The simulations takes into account material properties of food like turkey, duck, chicken, stuffing as well as phase changes during the oven cooking process. The cooking procedure involves choosing conductive and convective boundary conditions to optimize the trade-off between faster cooking time and minimal burned volume.
+
+See screenshots of my work in the folder here. And read the paper for the final project here.
+
 
 ## ["StopBot", Autonomous Mobile Robot, The Cooper Union](https://github.com/pjoneja/Portfolio/tree/master/StopBot%20Autonomous%20Mobile%20Robot)
 StopBot won first place and set a university "world record" in the annual autonomous robot competition. StopBot is designed to detect enemy robots and shoot a ping pong ball, while safely navigating the arena by planning a path to avoid all obstacles. The robot is built using machined acetal delrin and laser cut acrylic. It operates using infrared distance sensors, phototransistors and an Arduino Mega. The code is organized in a hierarchy to prioritize small subtasks in order to achieve the overall goal. In robotics vocabulary, this is known as hierarchal subsumption code architecture.
