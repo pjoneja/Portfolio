@@ -9,7 +9,7 @@ StopBot won first place and set a university "world record" in the annual autono
 ![online](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/4.png)
 ![online](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/5.png)
 
-View the CAD model in the "CAD" folder above
+View the CAD model in the "Parts" folder above
 
 Read the code [here](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/StopBot.ino)
 
