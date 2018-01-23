@@ -46,10 +46,10 @@ A machine designed and manufactured from scratch to brew coffee from bean to cup
 
 ---
 
-## "StopBot", Autonomous Mobile Robot, The Cooper Union
+## ["StopBot", Autonomous Mobile Robot, The Cooper Union](https://github.com/pjoneja/Portfolio/tree/master/StopBot%20Autonomous%20Mobile%20Robot)
 StopBot won first place and set a university "world record" in the annual autonomous robot competition. StopBot is designed to detect enemy robots and shoot a ping pong ball, while safely navigating the arena by planning a path to avoid all obstacles. The robot is built using machined nylon, laser cut acrylic, 
 
-Explore the robot's design and code here. And read the final paper here.
+Explore the robot's design and code [here](https://github.com/pjoneja/Portfolio/blob/master/StopBot%20Autonomous%20Mobile%20Robot/StopBot.ino). And read the final paper [here](https://github.com/pjoneja/Portfolio/raw/master/StopBot%20Autonomous%20Mobile%20Robot/StopBot_AutonomousMobileRobot_FinalReport.pdf)
 
 ---
 
@@ -57,7 +57,7 @@ Explore the robot's design and code here. And read the final paper here.
 
 ---
 
-## Physics Simulations, The Cooper Union
+## [Physics Simulations, The Cooper Union](https://github.com/pjoneja/Portfolio/tree/master/Physics%20Simulations)
 A project-based class that took a deep dive into algorithms. Topics covered included numerical integration, computing derivatives, solving ODEs with higher-order Runge-Kutta methods, optimization algorithms, Fourier transforms. 
 
 [My final project](https://github.com/pjoneja/TippeTop) was a visual simulation of a special kind of spinning top called a [*tippe top*](https://github.com/pjoneja/TippeTop). The [paper](https://github.com/pjoneja/TippeTop/blob/master/Joneja-TippeTop.pdf) I wrote proved that the simulation followed physical laws of conservation of angular momentum and energy while minimizing computational error.
