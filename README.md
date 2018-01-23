@@ -46,7 +46,6 @@ A machine designed and manufactured from scratch to brew coffee from bean to cup
 
 ---
 
-<<<<<<< HEAD
 ## ["StopBot", Autonomous Mobile Robot, The Cooper Union](https://github.com/pjoneja/Portfolio/tree/master/StopBot%20Autonomous%20Mobile%20Robot)
 StopBot won first place and set a university "world record" in the annual autonomous robot competition. StopBot is designed to detect enemy robots and shoot a ping pong ball, while safely navigating the arena by planning a path to avoid all obstacles. The robot is built using machined nylon, laser cut acrylic, 
 
